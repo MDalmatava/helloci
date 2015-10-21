@@ -1,5 +1,5 @@
-Hello, CI 123!=======
-kkkk7777777777777777777777777777777777777777777
+Hello, CI!=======
+
 
 Test projects for "Hello, CI" training
 
