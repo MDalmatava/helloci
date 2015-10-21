@@ -1,6 +1,4 @@
-Hello, CI!=======
-
-
+Hello, CI!
 Test projects for "Hello, CI" training
 
 Build
