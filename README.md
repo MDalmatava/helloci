@@ -1,7 +1,7 @@
 Hello, CI!
 Test projects for "Hello, CI" training
 
-Build
+Build 2
 =======
 Java project: execute Maven goal
 ```
